@@ -1,0 +1,9 @@
+.\hex\main.o: main.c
+.\hex\main.o: C:\Keil\ARM\Inc\Philips\lpc21xx.h
+.\hex\main.o: kpm.h
+.\hex\main.o: typedef.h
+.\hex\main.o: lcd1.h
+.\hex\main.o: intrrupt.h
+.\hex\main.o: rtc.h
+.\hex\main.o: LCD_defines.h
+.\hex\main.o: delay.h

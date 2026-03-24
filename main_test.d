@@ -1,0 +1,9 @@
+.\hex\main_test.o: main_test.c
+.\hex\main_test.o: C:\Keil\ARM\Inc\Philips\lpc21xx.h
+.\hex\main_test.o: rtc.h
+.\hex\main_test.o: typedef.h
+.\hex\main_test.o: kpm.h
+.\hex\main_test.o: lcd1.h
+.\hex\main_test.o: intrrupt.h
+.\hex\main_test.o: LCD_defines.h
+.\hex\main_test.o: main.h
