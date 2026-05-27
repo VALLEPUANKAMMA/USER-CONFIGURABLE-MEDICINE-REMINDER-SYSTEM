@@ -50,7 +50,6 @@ To develop a User-Configurable Medicine Reminder System that allows users to set
 
 ### 🔔 Medicine Alert System
 
-Add the image showing buzzer alert and medicine reminder notification.
 
 <img width="1537" height="1023" alt="image" src="https://github.com/user-attachments/assets/d59f5698-7c1b-48c9-bbce-d28246830b5e" />
 
