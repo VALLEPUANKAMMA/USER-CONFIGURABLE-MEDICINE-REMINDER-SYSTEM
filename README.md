@@ -33,14 +33,28 @@ To develop a User-Configurable Medicine Reminder System that allows users to set
 
 ---
 
-## 📷 Project Image
+## 📷 Project Images
 
-<img width="873" height="760" alt="Screenshot 2026-05-27 142237" src="https://github.com/user-attachments/assets/5b9d6125-26eb-47a4-af10-dab1a55fceaa" />
+### 🔌 Hardware Setup
+---
+<img width="873" height="760" alt="Screenshot 2026-05-27 142237" src="https://github.com/user-attachments/assets/331543bf-490a-478f-bfa1-c9265282b4a3" />
+
+---
+
+### 🖥 LCD Output Display
+
+<img width="253" height="206" alt="Screenshot 2026-05-27 143145" src="https://github.com/user-attachments/assets/406d629d-86e2-439f-9e0d-28e9d591b81e" />
+
+---
 
 
-```
+### 🔔 Medicine Alert System
 
-```
+Add the image showing buzzer alert and medicine reminder notification.
+
+<img width="1537" height="1023" alt="image" src="https://github.com/user-attachments/assets/d59f5698-7c1b-48c9-bbce-d28246830b5e" />
+
+---
 
 ---
 
