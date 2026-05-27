@@ -158,3 +158,9 @@ When medicine time matches:
 ## 📖 Conclusion
 
 The User-Configurable Medicine Reminder System helps users take medicines on time using RTC-based scheduling and automatic alerts. The project demonstrates important embedded system concepts such as interrupt handling, RTC interfacing, LCD display control, and keypad interaction.
+
+
+## 👨‍💻 Author
+
+**Name:** Ankamma Vallepu  
+
