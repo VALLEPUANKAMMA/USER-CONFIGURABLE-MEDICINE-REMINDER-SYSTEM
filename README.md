@@ -39,12 +39,14 @@ To develop a User-Configurable Medicine Reminder System that allows users to set
 ---
 <img width="873" height="760" alt="Screenshot 2026-05-27 142237" src="https://github.com/user-attachments/assets/331543bf-490a-478f-bfa1-c9265282b4a3" />
 
+Complete hardware connection of the medicine reminder system including LPC2148, LCD, keypad, RTC, and buzzer.
 ---
 
 ### 🖥 LCD Output Display
 
 <img width="253" height="206" alt="Screenshot 2026-05-27 143145" src="https://github.com/user-attachments/assets/406d629d-86e2-439f-9e0d-28e9d591b81e" />
 
+LCD displaying current RTC time and system status.
 ---
 
 
@@ -52,6 +54,8 @@ To develop a User-Configurable Medicine Reminder System that allows users to set
 
 
 <img width="1537" height="1023" alt="image" src="https://github.com/user-attachments/assets/d59f5698-7c1b-48c9-bbce-d28246830b5e" />
+
+LCD showing medicine reminder message: `TAKE MEDICINE NOW` with buzzer alert activation.
 
 ---
 
