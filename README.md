@@ -35,10 +35,11 @@ To develop a User-Configurable Medicine Reminder System that allows users to set
 
 ## 📷 Project Image
 
-> Add your project circuit diagram, hardware setup image, or simulation screenshot here.
+<img width="873" height="760" alt="Screenshot 2026-05-27 142237" src="https://github.com/user-attachments/assets/5b9d6125-26eb-47a4-af10-dab1a55fceaa" />
 
-```md
-![Project Image](images/project-image.png)
+
+```
+
 ```
 
 ---
